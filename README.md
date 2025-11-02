@@ -37,6 +37,7 @@ This project implements core Twitter functionalities like user registration, log
 
 ## 📂 Project Structure
 
+```bash
 twitter-clone-api/
 │
 ├── app.js # Main server and route definitions
