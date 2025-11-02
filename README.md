@@ -6,8 +6,6 @@ A fully functional Twitter-like backend built with Node.js and Express. Includes
 A full-featured **Twitter Clone Backend API** built with **Node.js**, **Express**, **SQLite**, and **JWT Authentication**.  
 This project implements core Twitter functionalities like user registration, login, following, tweeting, liking, replying, and secure access control.
 
----
-
 ## 🚀 Features
 
 ✅ User registration and login  
@@ -20,8 +18,6 @@ This project implements core Twitter functionalities like user registration, log
 ✅ SQLite database with pre-defined schema  
 ✅ RESTful API structure with Express.js  
 
----
-
 ## 🏗️ Tech Stack
 
 | Technology | Purpose |
@@ -32,8 +28,6 @@ This project implements core Twitter functionalities like user registration, log
 | **bcrypt** | Password hashing |
 | **jsonwebtoken (JWT)** | Secure authentication |
 | **sqlite & sqlite3** | Database connection driver |
-
----
 
 ## 📂 Project Structure
 
@@ -51,13 +45,12 @@ twitter-clone-api/
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/anuradhahazra/twitter-clone-api.git
 cd twitter-clone-api
 
 2️⃣ Install Dependencies
 npm install
 
-3️⃣ Create Database (if not already exists)
+3️⃣ Create Database (if not already exist)
 sqlite3 twitterCloneApi.db
 
